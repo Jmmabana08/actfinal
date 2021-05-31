@@ -1,0 +1,22 @@
+{
+  "name": "john",
+  "version": "1.0.0",
+  "description": "act",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmmabana08/actfinal.git"
+  },
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmmabana08/actfinal/issues"
+  },
+  "homepage": "https://github.com/Jmmabana08/actfinal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
